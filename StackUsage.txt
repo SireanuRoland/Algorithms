@@ -1,6 +1,6 @@
  Maximum stack usage in bytes:
 
-   CSTACK Function
+   CSTACK Procedure
    ------ --------
       6   Function1
         6   -> Function2
